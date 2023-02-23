@@ -25,37 +25,6 @@ Table for DIP switch
 CONNECTION
 DIP
 
-
-
-
-1
-2
-3
-4
-
-
-USB <-> STM32
-ON
-ON
-OFF
-OFF
-
-
-USB <- > ESP8285
-OFF
-OFF
-ON
-ON
-
-
-USB <- > EXT SERIAL
-ALL OFF
-Use J13 male header near DIP
-Use J13
-
-
-
-
 ####
 
 
