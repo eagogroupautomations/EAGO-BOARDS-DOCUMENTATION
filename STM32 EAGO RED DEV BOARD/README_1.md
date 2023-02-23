@@ -10,10 +10,15 @@ Edited by Benson Muchemi
   * SIM800C.
  All of the modules can work together or each separately. 
  Each module has its own pinout headers.
+ 
 The convenient solution for the development of new projects requiring larger memory space and WiFi for IOT.
+
 Via USB you can update sketches and firmware for STM32F103C8T6 and for ESP8285. This on board has the USB-serial converter CP2102.
+
 Using this board is very simple.
+
 The board has a DIP-switch, to connect the modules.
+
 For example, to USB and stm32f10c8t6, USB and ESP8285, and USB to external Serial.
 ####
 
