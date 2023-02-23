@@ -19,7 +19,43 @@ Using this board is very simple.
 
 The board has a DIP-switch, to connect the modules.
 
-For example, to USB and stm32f10c8t6, USB and ESP8285, and USB to external Serial.
+For example, to USB and STM32F103C8T6, USB and ESP8285, and USB to external Serial.
+
+Table for DIP switch
+CONNECTION
+DIP
+
+
+
+
+1
+2
+3
+4
+
+
+USB <-> STM32
+ON
+ON
+OFF
+OFF
+
+
+USB <- > ESP8285
+OFF
+OFF
+ON
+ON
+
+
+USB <- > EXT SERIAL
+ALL OFF
+Use J13 male header near DIP
+Use J13
+
+
+
+
 ####
 
 
